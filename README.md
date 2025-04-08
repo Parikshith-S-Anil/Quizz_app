@@ -9,7 +9,6 @@ A new Flutter project.
 ### 📝 Quiz Page
 ![Quiz Page](screenshots/quiz.jpg)
 
-> 📂 Place your screenshot image inside a `screenshots/` folder in the root directory.
 
 ---
 
@@ -33,3 +32,16 @@ To set up and run this project locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/quizyy.git
+
+2. Navigate to the project directory
+   ```bash
+   cd quizyy
+3. Install the required dependencies:
+   ```bash
+   flutter pub get
+4. Run the app:
+   ```bash
+   flutter run
+
+
+
